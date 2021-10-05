@@ -53,3 +53,7 @@ print('56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> e
 **56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> eee38282fae64c52b1cb926459842a4d, C_Papel Papelão Tretapak, 3400**
 
 ![cropped-ALYSIDA-1](cropped-ALYSIDA-1.png?style=centerme)
+
+<p align="center">
+  <img src="cropped-ALYSIDA-1.png">
+</p>
