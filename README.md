@@ -52,4 +52,4 @@ print('56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> e
 **eee38282fae64c52b1cb926459842a4d, V_Metal, 45000 <==> 56364b921df94f629df2bbe80d28c337, C_Metal, 45000**
 **56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> eee38282fae64c52b1cb926459842a4d, C_Papel Papelão Tretapak, 3400**
 
-![cropped-ALYSIDA-1](cropped-ALYSIDA-1.png){stile="center"}
+![cropped-ALYSIDA-1](cropped-ALYSIDA-1.png?style=centerme)
