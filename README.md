@@ -34,13 +34,13 @@ df = pd.read_csv ("novosmercados.csv")
 
 ## As iterações descobertas
 
-A cada novo hash registrado no Alysida, e que tenha valor diferente de zero nanas colunas de compra e venda, o sistema é processado. Como exemplo de processamento, podemos observar abaixo, que o hash(empresa) zero, possui 40.000 Kg de alumínio para venda e o hash 4, deseja comprar 7800 Kg de alumínio. O mesmo será realizado para as demais empresas.
+A cada novo hash registrado no **Alysida**, e que tenha valor diferente de zero nas colunas de compra e venda, o sistema é processado. Como exemplo de processamento, podemos observar abaixo, que o hash(empresa) zero, possui 40.000 Kg de alumínio para venda e o hash 4, deseja comprar 7800 Kg de alumínio. O mesmo será realizado para as demais empresas.
 
 ![novosmercados](novosmercados.jpg)
 
-## O relatório
+## O relatório dos Novos Mercados descobertos
 
-Como exemplo de saída deste subsistema do Alysida, temos o relatório abaixo que apresenta o hash do vendedor, o resíduo e quantidade <==> o hash do comprador, o resíduo e quantidade.
+Como exemplo de saída deste subsistema do **Alysida**, o relatório abaixo apresenta o hash do vendedor, o resíduo e quantidade <==> o hash do comprador, o resíduo e quantidade.
 
 print('990b345096c14e7fad844b99dc175cf8, V_Alumínio, 40000 <==> 1df360323e714a2a954947a52e2405a3, C_Alumínio, 7800')
 print('eee38282fae64c52b1cb926459842a4d, V_Metal, 45000 <==> 56364b921df94f629df2bbe80d28c337, C_Metal, 45000')
