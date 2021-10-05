@@ -46,6 +46,6 @@ print('990b345096c14e7fad844b99dc175cf8, V_Alumínio, 40000 <==> 1df360323e714a2
 print('eee38282fae64c52b1cb926459842a4d, V_Metal, 45000 <==> 56364b921df94f629df2bbe80d28c337, C_Metal, 45000')
 print('56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> eee38282fae64c52b1cb926459842a4d, C_Papel Papelão Tretapak, 3400')
 
-990b345096c14e7fad844b99dc175cf8, V_Alumínio, 40000 <==> 1df360323e714a2a954947a52e2405a3, C_Alumínio, 7800
-eee38282fae64c52b1cb926459842a4d, V_Metal, 45000 <==> 56364b921df94f629df2bbe80d28c337, C_Metal, 45000
-56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> eee38282fae64c52b1cb926459842a4d, C_Papel Papelão Tretapak, 3400
+**990b345096c14e7fad844b99dc175cf8, V_Alumínio, 40000 <==> 1df360323e714a2a954947a52e2405a3, C_Alumínio, 7800**
+**eee38282fae64c52b1cb926459842a4d, V_Metal, 45000 <==> 56364b921df94f629df2bbe80d28c337, C_Metal, 45000**
+**56364b921df94f629df2bbe80d28c337, V_Papel Papelão Tretapak, 40000 <==> eee38282fae64c52b1cb926459842a4d, C_Papel Papelão Tretapak, 3400**
